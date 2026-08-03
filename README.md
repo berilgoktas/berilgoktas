@@ -1,231 +1,137 @@
 <h1 align="center">Hi 👋 Ben Beril</h1>
 
 <h3 align="center">
-Bilgi İşlem Uzman Yardımcısı | Full-Stack Developer
+Bilgi İşlem Uzman Yardımcısı | Full Stack Developer
 </h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=C%23+ve+.NET+ile+kurumsal+uygulamalar+geliştiriyorum;React+ve+TypeScript+ile+modern+arayüzler+tasarlıyorum;ERP+entegrasyonları+ve+raporlama+sistemleri+geliştiriyorum;Veriye+dayalı+iş+süreçlerini+otomatikleştiriyorum"
-    alt="Hareketli Tanıtım Yazısı"
-  />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=C%23+Developer;.NET+Developer;React+Developer;ERP+Integration;Reporting+Systems;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
-## 👩‍💻 Hakkımda
+# 👩‍💻 Hakkımda
 
-- 💻 Bilgi İşlem Uzman Yardımcısı olarak çalışıyorum.
-- 🎓 Bilgisayar Programcılığı mezunuyum.
-- 📚 Yönetim Bilişim Sistemleri lisans eğitimi alıyorum.
-- 🚀 C#, .NET 8, React, TypeScript ve SQL Server ile projeler geliştiriyorum.
-- 🔄 ERP, üretim ve kurumsal iş süreçlerini dijitalleştiren sistemler tasarlıyorum.
-- 📊 Dashboard, raporlama, veri analizi ve otomatik rapor servisleri geliştiriyorum.
-- ⚙️ REST API, veri senkronizasyonu, zamanlanmış görevler ve arka plan servisleriyle çalışıyorum.
-- 🤖 Cursor, Claude, Gemini ve ChatGPT gibi yapay zekâ destekli geliştirme araçlarını aktif olarak kullanıyorum.
-- 🎯 Kullanıcı odaklı, sürdürülebilir, izlenebilir ve verimli yazılım çözümleri üretmeyi hedefliyorum.
+- 💻 Bilgi İşlem Uzman Yardımcısı
+- 🎓 Bilgisayar Programcılığı Mezunu
+- 📚 Yönetim Bilişim Sistemleri Lisans Öğrencisi
+- 🚀 C#, .NET, React, TypeScript ve SQL Server ile kurumsal yazılımlar geliştiriyorum.
+- 📊 Dashboard, raporlama ve veri analizi uygulamaları geliştiriyorum.
+- 🔄 ERP entegrasyonları ve veri senkronizasyon sistemleri üzerine çalışıyorum.
+- 🤖 Cursor, Claude, Gemini ve ChatGPT ile AI destekli yazılım geliştiriyorum.
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+# 🛠️ Kullandığım Teknolojiler
 
 ### Backend
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=cs,dotnet,nodejs"
-    alt="Backend Teknolojileri"
-  />
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
 </p>
 
 ### Frontend
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap"
-    alt="Frontend Teknolojileri"
-  />
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap" />
 </p>
 
 ### Veritabanı
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=mysql"
-    alt="MySQL"
-  />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-    width="48"
-    height="48"
-    alt="Microsoft SQL Server"
-  />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
 </p>
 
 ### Araçlar
 
-<p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,docker,postman"
-    alt="Geliştirme Araçları"
-  />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,docker,postman" />
 </p>
 
-### 🤖 AI Destekli Geliştirme Araçları
+### 🤖 AI Development Tools
 
-<p align="left">
-  <img
-    src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"
-    alt="Cursor"
-  />
+<p>
 
-  <img
-    src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"
-    alt="Claude"
-  />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 
-  <img
-    src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"
-    alt="Gemini"
-  />
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
 
-  <img
-    src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"
-    alt="ChatGPT"
-  />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🚀 Üzerinde Çalıştığım Alanlar
+# 🚀 Uzmanlık Alanlarım
 
-- Kurumsal web uygulamaları
-- ERP ve web servis entegrasyonları
-- Veri senkronizasyon sistemleri
-- Üretim ve iş emri takip uygulamaları
-- Dashboard ve performans raporlama sistemleri
-- Otomatik Excel ve PDF raporları
-- Zamanlanmış rapor servisleri
-- Otomatik e-posta bildirimleri
-- Teklif ve sipariş yönetim sistemleri
-- Müşteri memnuniyeti ve anket uygulamaları
-- Rol bazlı kullanıcı yetkilendirme
-- Docker tabanlı uygulama dağıtımı
+- 🏢 Kurumsal Web Uygulamaları
+- 📊 Dashboard ve Raporlama Sistemleri
+- 🔄 ERP Entegrasyonları
+- 📦 Üretim ve İş Takip Sistemleri
+- 📈 Veri Analizi
+- 📧 Otomatik Mail Servisleri
+- 📑 Excel & PDF Raporlama
+- 🐳 Docker Containerization
+- 🔐 REST API & Authentication
 
 ---
 
-## 📊 Raporlama ve Veri Analizi Sistemleri
+# 📌 Öne Çıkan Projeler
 
-Geliştirdiğim projelerde yalnızca verilerin kayıt altına alınmasına değil, bu verilerin anlamlı ve karar destekleyici çıktılara dönüştürülmesine de odaklanıyorum.
-
-Raporlama sistemlerimde genel olarak:
-
-- SQL Server üzerinden dinamik veri sorgulama
-- Tarih, kullanıcı, departman ve durum bazlı filtreleme
-- Günlük, haftalık, aylık ve yıllık performans analizleri
-- Kişi ve departman bazlı karşılaştırmalar
-- Excel, CSV ve PDF çıktıları
-- İnteraktif dashboard ve grafikler
-- Otomatik oluşturulan dönemsel raporlar
-- E-posta ile otomatik rapor gönderimi
-- Hata loglama ve yeniden deneme mekanizmaları
-- ERP verilerinin raporlamaya uygun hale getirilmesi
-
-özelliklerini kullanıyorum.
-
-Bu sistemlerle manuel raporlama yükünü azaltmayı, veri doğruluğunu artırmayı ve yöneticilerin süreçleri daha kolay takip edebilmesini amaçlıyorum.
-
----
-
-## 📌 Öne Çıkan Projeler
-
-### ⏱️ Personel Giriş-Çıkış Takip ve Raporlama Sistemi
-Personel geçiş kayıtlarını analiz ederek çalışma sürelerini hesaplayan ve otomatik Excel, CSV, PDF ve e-posta raporları oluşturan sistem.
+### ⏱️ Personel Giriş Çıkış Takip Sistemi
+Personel çalışma sürelerini analiz eden ve otomatik raporlar oluşturan kurumsal takip sistemi.
 
 ### 👥 Toplantı Takip Sistemi
-Departman bazlı konuşma sürelerini, katılım durumlarını ve toplantı notlarını takip eden mobil uyumlu toplantı yönetim sistemi.
+Toplantı yönetimi, katılım takibi ve performans raporlarını yöneten web uygulaması.
 
 ### 📋 Kurumsal Anket Yönetim Sistemi
-Token tabanlı anket dağıtımı, cevap toplama, memnuniyet analizi ve raporlama süreçlerini yöneten full-stack web uygulaması.
+Müşteri memnuniyeti anketlerinin dağıtımını, analizini ve raporlamasını sağlayan platform.
 
 ### 🏭 Üretim Maliyet Hesaplama Sistemi
-Üretim aşamalarına ait maliyetleri hesaplayan, döviz kuru entegrasyonu kullanan ve teklif çıktıları oluşturan full-stack uygulama.
+Üretim maliyetlerini hesaplayan ve otomatik teklif oluşturan full-stack uygulama.
 
 ### 🔄 DIA Operatör Hareket Senkronizasyon Sistemi
-DIA ERP’den üretim iş emirleri ve operatör hareketlerini çekerek SQL Server’a aktaran ve üretim raporları oluşturan entegrasyon sistemi.
+ERP verilerini SQL Server'a senkronize ederek üretim raporları oluşturan entegrasyon sistemi.
 
-### 📦 Teklif ve Sipariş Yönetim Uygulaması
-Tedarikçi, talep, teklif ve sipariş süreçlerini mühendislik hesaplamaları ve otomatik raporlama özellikleriyle yöneten kurumsal uygulama.
+### 📦 Teklif ve Sipariş Yönetim Sistemi
+Teklif, sipariş ve tedarik süreçlerini yöneten kurumsal yönetim uygulaması.
+
+### 📈 Teklif Onay Takip Sistemi
+Satış tekliflerini analiz eden ve interaktif dashboardlar sunan raporlama sistemi.
+
+### 🧾 ERP Fatura & İrsaliye Senkronizasyonu
+ERP verilerini senkronize ederek finansal ve stok raporları üreten otomasyon sistemi.
 
 ### 💡 Öneri ve İyileştirme Yönetim Sistemi
-Çalışan önerilerini kayıt altına alan, değerlendiren ve departman bazlı dashboardlarla raporlayan full-stack sistem.
-
-### 🧾 ERP Fatura ve İrsaliye Senkronizasyon Sistemi
-DIA ERP’den fatura, irsaliye ve döviz kuru verilerini çekerek finansal ve stok bazlı otomatik raporlar oluşturan sistem.
-
-### 📈 Teklif Onay Takip ve Raporlama Sistemi
-Satış tekliflerinin onay, red ve bekleme durumlarını analiz eden ve satış performansını interaktif dashboardlarla gösteren uygulama.
+Çalışan önerilerini yöneten, değerlendiren ve istatistiksel olarak raporlayan platform.
 
 ---
 
-## 📊 GitHub İstatistiklerim
+# 📫 Bana Ulaşın
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=berilgoktas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-   
-  />
+<p>
 
-</p>
+<a href="https://www.linkedin.com/in/LINKEDIN_ADIN">
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=berilgoktas&theme=tokyonight&hide_border=true&locale=tr"
-    alt="GitHub Streak"
-  />
-</p>
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 
----
+</a>
 
-## 📈 Katkı Grafiğim
+<a href="mailto:mailadresin@mail.com">
 
-<p align="center">
-  
-    src="https://github-readme-activity-graph.vercel.app/graph?username=berilgoktas&theme=tokyo-night&hide_border=true"
-    alt="GitHub Aktivite Grafiği"
-</p>
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 
----
- 
-## 📫 Bana Ulaşın
+</a>
 
-<p align="left">
-  <a
-    href="https://www.linkedin.com/in/berilgoktas/"
-    target="_blank"
-  >
-    <img
-      src="https://skillicons.dev/icons?i=linkedin"
-      width="48"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="goktasberil2@gmail.com">
-    <img
-      src="https://skillicons.dev/icons?i=gmail"
-      width="48"
-      alt="E-posta"
-    />
-  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>
-    Kurumsal iş süreçlerini veriye dayalı, sürdürülebilir ve otomatik sistemlere dönüştürüyorum.
-  </i>
+
+<i>"Building modern software solutions for enterprise systems, reporting and automation."</i>
+
 </p>
