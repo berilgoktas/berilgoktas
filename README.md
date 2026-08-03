@@ -158,206 +158,31 @@ Bu sistemlerle manuel raporlama yükünü azaltmayı, veri doğruluğunu artırm
 ## 📌 Öne Çıkan Projeler
 
 ### ⏱️ Personel Giriş-Çıkış Takip ve Raporlama Sistemi
-
-SQL veritabanından alınan personel geçiş kayıtlarını analiz eden ve çalışma sürelerini otomatik hesaplayan raporlama sistemi geliştirdim.
-
-Sistem içerisinde:
-
-- Personel giriş ve çıkış kayıtlarının eşleştirilmesi
-- Günlük ve aylık çalışma sürelerinin hesaplanması
-- Ofis ve kişi bazlı raporlama
-- Eksik ve eşleşmeyen geçiş kayıtlarının tespit edilmesi
-- Kişi bazlı hata raporlarının oluşturulması
-- Excel, CSV, grafik ve PDF çıktılarının hazırlanması
-- Aylık raporların otomatik oluşturulması
-- Raporların e-posta ile ilgili gruplara gönderilmesi
-- Hata loglama ve otomatik yeniden deneme
-
-özelliklerini geliştirdim.
-
-**Teknolojiler:** C# • .NET • SQL Server • Excel • PDF • Background Service
-
----
-
-### 📈 Teklif Onay Takip ve Raporlama Sistemi
-
-DIA ERP web servisinden satış tekliflerini otomatik olarak çekerek SQL Server üzerinde saklayan ve interaktif dashboard ile analiz eden full-stack raporlama sistemi geliştirdim.
-
-Sistem içerisinde:
-
-- Tekliflerin onay, red ve beklemede durumlarının takibi
-- Satış elemanı bazlı performans analizi
-- Günlük, haftalık ve aylık trend raporları
-- Teklif dönüşüm oranlarının hesaplanması
-- Kişi bazlı skorlamalar
-- Filtrelenebilir dashboard ekranları
-- DIA ERP veri senkronizasyonu
-- Rol bazlı kullanıcı erişimi
-- Docker tabanlı dağıtım
-
-özelliklerini geliştirdim.
-
-**Teknolojiler:** .NET 8 Minimal API • React 19 • TypeScript • SQL Server • Docker
-
----
-
-### 🧾 ERP Fatura ve İrsaliye Senkronizasyon Sistemi
-
-DIA ERP web servisinden fatura, irsaliye ve döviz kuru verilerini çekerek SQL Server'a aktaran ve finansal raporlar oluşturan senkronizasyon sistemi geliştirdim.
-
-Sistem içerisinde:
-
-- Artımlı veri senkronizasyonu
-- Oturum yönetimi
-- Otomatik yeniden bağlanma
-- Toplu veri işleme
-- Günlük zamanlanmış görevler
-- Excel tabanlı finansal raporlar
-- EUR bazlı raporlama
-- Stok grubu bazlı analizler
-- Günlük özet e-posta bildirimleri
-- Manuel ve otomatik çalışma seçenekleri
-
-özelliklerini geliştirdim.
-
-**Teknolojiler:** C# • .NET • DIA ERP API • SQL Server • Excel • Scheduled Service
-
----
-
-### 🔄 DIA Operatör Hareket Senkronizasyon Sistemi
-
-DIA ERP sisteminden üretim iş emirlerini ve operatör hareketlerini otomatik olarak alarak SQL Server'a senkronize eden uygulama geliştirdim.
-
-Sistem içerisinde:
-
-- Üretim iş emirlerinin otomatik aktarılması
-- Operatör hareketlerinin senkronizasyonu
-- Artımlı veri çekme
-- Veri eşleştirme ve güncelleme
-- Günlük zamanlanmış görevler
-- Excel üretim raporları
-- API oturum yönetimi
-- Hata yönetimi ve loglama
-- Windows Forms ve konsol kullanımı
-
-özelliklerini geliştirdim.
-
-**Teknolojiler:** C# • .NET 8 • Windows Forms • SQL Server • DIA ERP API
-
----
-
-### 🏭 Üretim Maliyet Hesaplama Sistemi
-
-Plastik enjeksiyon üretim süreçlerine ait maliyetlerin hesaplanmasını ve teklif oluşturma süreçlerinin yönetilmesini sağlayan full-stack web uygulaması geliştirdim.
-
-Sistem içerisinde:
-
-- Enjeksiyon, çapak alma, post-kürleme ve yıkama maliyetleri
-- Çok adımlı hesaplama ekranı
-- Otomatik döviz kuru entegrasyonu
-- Rol bazlı yetkilendirme
-- Varsayılan değer yönetimi
-- Geçmiş kayıt takibi
-- Excel ve PDF teklif çıktıları
-- Otomatik veri güncelleme
-- Hata durumunda yeniden deneme
-- Docker ile dağıtım
-
-özelliklerini geliştirdim.
-
-**Teknolojiler:** ASP.NET Core 8 • React 19 • SQL Server • Docker
-
----
-
-### 📋 Kurumsal Anket Yönetim Sistemi
-
-Şirketlerin müşteri memnuniyetini ölçebilmesi için anket oluşturma, dağıtma, cevap toplama ve analiz süreçlerini yöneten full-stack web uygulaması geliştirdim.
-
-Sistem içerisinde:
-
-- Token tabanlı tek kullanımlık anket bağlantıları
-- Toplu e-posta gönderimi
-- Arka plan kuyruk sistemi
-- Hata yönetimi ve tekrar deneme
-- NPS, memnuniyet ve çaba puanları
-- Grafiksel analiz ekranları
-- Şirket ve dönem bazlı raporlar
-- Excel çıktıları
-- Admin paneli
-- Docker tabanlı dağıtım
-
-özelliklerini geliştirdim.
-
-**Teknolojiler:** .NET 8 • React 19 • SQL Server • MailKit • Recharts • ExcelJS • Docker
-
----
+Personel geçiş kayıtlarını analiz ederek çalışma sürelerini hesaplayan ve otomatik Excel, CSV, PDF ve e-posta raporları oluşturan sistem.
 
 ### 👥 Toplantı Takip Sistemi
+Departman bazlı konuşma sürelerini, katılım durumlarını ve toplantı notlarını takip eden mobil uyumlu toplantı yönetim sistemi.
 
-Departman bazlı konuşma sürelerini ve toplantı katılımlarını gerçek zamanlı olarak takip eden toplantı yönetim sistemi geliştirdim.
+### 📋 Kurumsal Anket Yönetim Sistemi
+Token tabanlı anket dağıtımı, cevap toplama, memnuniyet analizi ve raporlama süreçlerini yöneten full-stack web uygulaması.
 
-Sistem içerisinde:
+### 🏭 Üretim Maliyet Hesaplama Sistemi
+Üretim aşamalarına ait maliyetleri hesaplayan, döviz kuru entegrasyonu kullanan ve teklif çıktıları oluşturan full-stack uygulama.
 
-- Saniye bazlı konuşma süresi ölçümü
-- Katılımcı yönetimi
-- Geç gelme ve katılmama takibi
-- Toplantı notları
-- Tarih aralığına göre Excel raporları
-- Mobil uyumlu PWA arayüzü
-- Çevrimdışı çalışma
-- Kimlik doğrulama ve yetkilendirme
-- Transaction tabanlı veri yönetimi
-- Docker tabanlı dağıtım
+### 🔄 DIA Operatör Hareket Senkronizasyon Sistemi
+DIA ERP’den üretim iş emirleri ve operatör hareketlerini çekerek SQL Server’a aktaran ve üretim raporları oluşturan entegrasyon sistemi.
 
-özelliklerini geliştirdim.
-
-**Teknolojiler:** React • TypeScript • PWA • .NET 8 Web API • SQL Server • Docker
-
----
+### 📦 Teklif ve Sipariş Yönetim Uygulaması
+Tedarikçi, talep, teklif ve sipariş süreçlerini mühendislik hesaplamaları ve otomatik raporlama özellikleriyle yöneten kurumsal uygulama.
 
 ### 💡 Öneri ve İyileştirme Yönetim Sistemi
+Çalışan önerilerini kayıt altına alan, değerlendiren ve departman bazlı dashboardlarla raporlayan full-stack sistem.
 
-Çalışanların bireysel ve ekip bazlı önerilerini kayıt altına alan, değerlendiren ve raporlayan kurumsal web uygulaması geliştirdim.
+### 🧾 ERP Fatura ve İrsaliye Senkronizasyon Sistemi
+DIA ERP’den fatura, irsaliye ve döviz kuru verilerini çekerek finansal ve stok bazlı otomatik raporlar oluşturan sistem.
 
-Sistem içerisinde:
-
-- Öneri oluşturma ve değerlendirme
-- Kabul ve red süreçleri
-- Departman ve ekip bazlı takip
-- Günlük, aylık ve yıllık öneri raporları
-- Kabul ve red dağılım grafikleri
-- Filtreleme, sıralama ve sayfalama
-- Dashboard ekranları
-- Stored procedure ve view yapıları
-- Swagger API dokümantasyonu
-- Docker tabanlı dağıtım
-
-özelliklerini geliştirdim.
-
-**Teknolojiler:** React • Vite • .NET 8 Web API • SQL Server • Docker
-
----
-
-### 📦 Teklif ve Sipariş Yönetim Sistemi
-
-Tedarikçi, teklif, talep ve sipariş süreçlerini uçtan uca yöneten kurumsal full-stack sistem geliştirdim.
-
-Sistem içerisinde:
-
-- Malzeme ve tedarikçi yönetimi
-- Talep bazlı otomatik tedarikçi eşleştirme
-- Rol bazlı kullanıcı yönetimi
-- Mühendislik hesaplama motoru
-- Profil bazlı ağırlık ve kesit hesaplamaları
-- Otomatik e-posta şablonları
-- Excel teklif çıktıları
-- Arama ve sayfalama
-- Modüler React bileşenleri
-- Repository Pattern tabanlı backend mimarisi
-
-özelliklerini geliştirdim.
-
-**Teknolojiler:** ASP.NET Core 8 • React 19 • SQL Server • ADO.NET
+### 📈 Teklif Onay Takip ve Raporlama Sistemi
+Satış tekliflerinin onay, red ve bekleme durumlarını analiz eden ve satış performansını interaktif dashboardlarla gösteren uygulama.
 
 ---
 
