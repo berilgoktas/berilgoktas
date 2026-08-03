@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 Ben Beril
 
-<!--
-**berilgoktas/berilgoktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Bilgi İşlem Uzman Yardımcısı
 
-Here are some ideas to get you started:
+🎓 Bilgisayar Programcılığı Mezunu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Yönetim Bilişim Sistemleri (Lisans)
+
+🚀 C#, .NET, React, TypeScript ve SQL Server ile projeler geliştiriyorum.
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,html,css,git,github,visualstudio,vscode,mysql" />
+</p>
+
+---
+
+## 📊 GitHub İstatistiklerim
+
+![Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight)
