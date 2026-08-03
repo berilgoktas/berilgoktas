@@ -192,10 +192,9 @@ Satış tekliflerinin onay, red ve bekleme durumlarını analiz eden ve satış 
 ## 📈 Katkı Grafiğim
 
 <p align="center">
-  <img
+  
     src="https://github-readme-activity-graph.vercel.app/graph?username=berilgoktas&theme=tokyo-night&hide_border=true"
     alt="GitHub Aktivite Grafiği"
-  
 </p>
 
 ---
