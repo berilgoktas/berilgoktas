@@ -175,7 +175,7 @@ Satış tekliflerinin onay, red ve bekleme durumlarını analiz eden ve satış 
   <img
     width="49%"
     src="https://github-readme-stats.vercel.app/api?username=berilgoktas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub İstatistikleri"
+   
   />
 
 </p>
@@ -204,7 +204,7 @@ Satış tekliflerinin onay, red ve bekleme durumlarını analiz eden ve satış 
 
 <p align="left">
   <a
-    href="https://www.linkedin.com/in/LINKEDIN-KULLANICI-ADIN/"
+    href="https://www.linkedin.com/in/berilgoktas/"
     target="_blank"
   >
     <img
@@ -214,7 +214,7 @@ Satış tekliflerinin onay, red ve bekleme durumlarını analiz eden ve satış 
     />
   </a>
 
-  <a href="mailto:MAIL-ADRESIN">
+  <a href="goktasberil2@gmail.com">
     <img
       src="https://skillicons.dev/icons?i=gmail"
       width="48"
