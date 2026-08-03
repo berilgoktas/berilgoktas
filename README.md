@@ -13,17 +13,15 @@ Bilgi İşlem Uzman Yardımcısı | Full-Stack Developer
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=berilgoktas&label=Profil%20Görüntülenme&color=6c63ff&style=flat"
+    src="https://komarev.com/ghpvc/?username=berilgoktas&label=Profil%20Görüntülenme&color=6c63ff&style=flat-square"
     alt="Profil Görüntülenme"
   />
-
   <img
-    src="https://img.shields.io/github/followers/berilgoktas?label=Takipçi&style=flat&color=6c63ff"
+    src="https://img.shields.io/github/followers/berilgoktas?label=Takipçi&style=flat-square&color=6c63ff"
     alt="GitHub Takipçi"
   />
-
   <img
-    src="https://img.shields.io/github/stars/berilgoktas?affiliations=OWNER&label=Yıldızlar&style=flat&color=6c63ff"
+    src="https://img.shields.io/github/stars/berilgoktas?affiliations=OWNER&label=Yıldızlar&style=flat-square&color=6c63ff"
     alt="GitHub Yıldızları"
   />
 </p>
@@ -190,13 +188,13 @@ Satış tekliflerinin onay, red ve bekleme durumlarını analiz eden ve satış 
 
 <p align="center">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=berilgoktas&show_icons=true&theme=tokyonight&hide_border=true&locale=tr"
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=berilgoktas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     alt="GitHub İstatistikleri"
   />
 
   <img
-    height="180"
+    width="41%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=berilgoktas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="En Çok Kullanılan Diller"
   />
