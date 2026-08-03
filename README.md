@@ -11,21 +11,6 @@ Bilgi İşlem Uzman Yardımcısı | Full-Stack Developer
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=berilgoktas&label=Profil%20Görüntülenme&color=6c63ff&style=flat-square"
-    alt="Profil Görüntülenme"
-  />
-  <img
-    src="https://img.shields.io/github/followers/berilgoktas?label=Takipçi&style=flat-square&color=6c63ff"
-    alt="GitHub Takipçi"
-  />
-  <img
-    src="https://img.shields.io/github/stars/berilgoktas?affiliations=OWNER&label=Yıldızlar&style=flat-square&color=6c63ff"
-    alt="GitHub Yıldızları"
-  />
-</p>
-
 ---
 
 ## 👩‍💻 Hakkımda
@@ -193,11 +178,6 @@ Satış tekliflerinin onay, red ve bekleme durumlarını analiz eden ve satış 
     alt="GitHub İstatistikleri"
   />
 
-  <img
-    width="41%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=berilgoktas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="En Çok Kullanılan Diller"
-  />
 </p>
 
 <p align="center">
