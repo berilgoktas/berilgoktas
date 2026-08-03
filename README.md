@@ -58,6 +58,14 @@ Bilgi İşlem Uzman Yardımcısı | .NET & React Developer
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,docker,postman" alt="Geliştirme Araçları" />
 </p>
 
+## 🤖 AI Development Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 ---
 
 ## 🚀 Üzerinde Çalıştığım Alanlar
