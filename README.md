@@ -195,11 +195,11 @@ Satış tekliflerinin onay, red ve bekleme durumlarını analiz eden ve satış 
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=berilgoktas&theme=tokyo-night&hide_border=true"
     alt="GitHub Aktivite Grafiği"
-  />
+  
 </p>
 
 ---
-
+ 
 ## 📫 Bana Ulaşın
 
 <p align="left">
